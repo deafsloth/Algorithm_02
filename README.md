@@ -15,7 +15,7 @@
 
 
 1. Model 3
-## Algorithm_02
+## MODEL 1 : 3 Layers with 1 Convolution layer  
 ![image](https://user-images.githubusercontent.com/79622778/120935495-09b9bf80-c73e-11eb-8cd1-5f69c71fa409.png)
 
 2. Training with Training loss
