@@ -6,7 +6,8 @@
 5. Images and corresponding probability that predicted Wrong
 
 
-### 1. Model 2
+# Model 2
+### 1. Model
 ## MODEL 2 : 5 Layers with 2 Convolution layer 
 ![image](https://user-images.githubusercontent.com/79622778/120935916-fad40c80-c73f-11eb-86bb-8aeb21a25541.png)
 
@@ -24,6 +25,10 @@
 
 ### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/79622778/120935979-5b634980-c740-11eb-99e8-ebe47883b2e3.png)
+
+
+
+# Model 3
 
 ### 1. Model 3
 ## MODEL 3 : 7 Layers with 4 Convolution layer 
