@@ -1,10 +1,23 @@
-# Algorithm_02
-1. Model 1
-2. Training with Training loss
-3. Test Accuracy
-4. Images and corresponding probability that predicted Right
-5. Images and corresponding probability that predicted Wrong
 
+# Model 1
+
+### 1. Model 
+## MODEL 1 : 3 Layers with 1 Convolution layer 
+![image](https://user-images.githubusercontent.com/79622778/120936130-358a7480-c741-11eb-8f78-e1ede1f91f2b.png)
+
+### 2. Training with Training loss
+## Training Step 
+## Training for 5 epochs.
+![image](https://user-images.githubusercontent.com/79622778/120936142-463aea80-c741-11eb-9f4a-fa92f05406bf.png)
+
+### 3. Test Accuracy
+## Perform Test with Test data 
+![image](https://user-images.githubusercontent.com/79622778/120936178-6f5b7b00-c741-11eb-82f4-3fb8930b8ae6.png)
+### 4. Images and corresponding probability that predicted Right
+![image](https://user-images.githubusercontent.com/79622778/120936159-594dba80-c741-11eb-9105-64123dcf41bc.png)
+
+### 5. Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/79622778/120936196-9619b180-c741-11eb-8a4a-80efed328047.png)
 
 
 
